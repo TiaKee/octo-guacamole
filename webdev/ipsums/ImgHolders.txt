@@ -1,0 +1,35 @@
+http://webresourcesdepot.com
+====
+
+nosrc.net
+A simple generator where you can only define the width and height. Also,  the source of the script is shared as well.
+---
+
+DummyImage.com 
+is a placeholder generator with a huge set of customization options including size, colors, text, multiple file types and preset sizes.
+
+And, it is an open source script.
+---
+Placekitten.com 
+
+is thematic placeholder service that can display any size of kitten images.
+
+There is also a jQuery plugin for dynamically changing any or all of your images to placeholder kittens with just a single line of code.
+---
+lorempixum.com
+
+is an awesome free service where you can generate images in any size and almost in any category (like sports, food, people, etc.).
+
+You can also select to get color or grayscale photos.
+---
+Placehold.it
+
+The service is full-featured with the ability to mention sizes, image format (.gif, .jpg, .png) and can also display text.
+
+The size of the images generated are displayed on them as well.
+---
+FlickHoldr.com
+
+As the name tells it, Flickrholdr fetches images from the huge database of Flickr.
+
+Besides the size of the images, it is possible to mention tags in the URL which is great for using related images in each spot.

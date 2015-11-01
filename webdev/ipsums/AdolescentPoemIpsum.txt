@@ -1,0 +1,151 @@
+http://www.elsewhere.org
+What it’s all about
+
+I used to work for a company with a website for kids. One of the features of the site was a bulletin-board type of thing, where kids could write in and get “published”. A lot of kids wrote in with poetry. Some of it was actually pretty good. You know, for a 12 year old.
+
+Anyway, I took all their poems, and used them as the input for a program which dissects texts and creates new texts based on the probabilities of words following each other. It’s called “I am” because those are always the first two words of the poem. I had it set up to be more random at first, but I found that I liked the consistency of having the first two words always the same.
+
+I’ve been doing things like this for a while, but so far the kids’ poetry is the best source I’ve found. If you have any comments about this page, I’d love to hear them. Please use the form below.
+
+Jamie Zawinski has a very nice page explaining this sort of thing in more (and more interesting) detail. Check it out.
+
+I am
+by The Aggregate Kid
+
+i am finding
+another evil from it that is all
+music, to my one and only
+love i will swim the longest
+ocean. i will dry your
+tears. when you left,
+not so long ago
+there was
+never possible, but
+only the moon knew. i dreamed about
+laying among the sky, faded
+souls who’ve turned to see you
+again but i
+survived! thats
+why youre talking to
+me!! but its my job to
+complain and whine so give me a kiss
+and that’s bout’ it so for the
+best, the
+drooliest can take over
+mine. i
+think you live
+to torcher me i put my
+head each night.
+i knew i could
+fly i’d be insane to ever
+let that dirty game recapture
+me you told
+me it
+was i. i can’t stand to be a slave
+of love take
+thee to the pool she is on the
+sleet. you crash,
+and fall to the
+beach and
+laid it in the world of great
+concern that
+often we do not stop and think of you
+makes me have a yearn to give
+it’s ours to learn to
+treasure it it
+will always
+become, the perfect
+frame for the
+record i don’t like you,
+it’s all so
+amazing, on how everything seems
+to yell, my heart isn’t
+content my eyes that shine.
+
+I am
+by The Aggregate Kid
+
+i am eccentric and
+complicated i
+understand pain, for i bear through the
+air. unoticed. a breeze goes
+bye its
+like god
+is like the moniters are so
+nice, they even let you
+know what true
+love
+really is?” or can you not even
+reading this anymore, and so
+do you! presants are
+open cake
+is near, and war has
+caused a long time i’m sure and what
+your thinking of,just to let you
+get in it, it’s almost
+like playing a game.
+
+you talk and
+there is war in cause of
+fights between lands!
+i love the other,
+a small kind boy, everytime he
+is sitting in
+class i see her in the
+middle of the game
+pokemon for 12 hours
+(non-stop!) time goes on i
+wanna be alone
+just let it grow? to
+patch it with ease .
+we have the chance.
+
+you might not know it,not
+even
+till ya die.
+
+I am
+by The Aggregate Kid
+
+i am not i am alone i cry,
+when i turn my head. i
+think to myself, this is as good as
+it all flashes
+before me. i still love you loos
+your love you :) gentle
+butterfly landing on my bed.
+
+when i look up they say is not
+he gets on my red
+burning hot face when
+i am eccentric and
+complicated i pretend that i love my mom
+and my light
+i’ll
+love him now i
+cannot build a mountain…
+or catch a
+rainbow fair…
+
+but let me be alone
+with my faults? and
+therefore not my gifts? my spirits
+dwell inside of me.
+don’t say she
+takes it all
+started when we are alone
+i cry, when i look
+in the
+shadow zone
+death is the best
+of friends our frienship
+never ends when i think, i
+remeber
+everything you
+ever had that
+special
+clique –
+that look
+that love, but also the
+boy just so
+fine.
